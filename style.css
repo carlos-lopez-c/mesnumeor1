@@ -2,7 +2,7 @@ body {
   background: #131b21;
 }
 body::before {
-  content: "Nipuna Lakruwan";
+  content: "❤";
   position: absolute;
   top: 50%;
   left: 50%;
